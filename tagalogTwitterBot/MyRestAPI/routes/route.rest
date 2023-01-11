@@ -1,0 +1,31 @@
+
+GET http://localhost:1080/tagalog
+
+
+###
+GET http://localhost:1080/tagalog/7
+
+
+###
+POST http://localhost:1080/tagalog
+Content-Type: application/json
+
+{
+    "tagalog": "Babae",
+    "english": "Woman",
+    "wordDate": "2023-01-08",
+    "exampleSentence": "Babae si Mary"
+}
+
+###
+DELETE http://localhost:1080/tagalog/7
+
+
+###
+PATCH http://localhost:1080/tagalog/7
+Content-Type: application/json
+
+{
+    "tagalog": "Magandang Umaga77",
+    "english": "Different English777"
+}
