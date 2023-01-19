@@ -9,4 +9,6 @@ hook up my MongoDB database to my Lambda function because I found it to be quick
 
 Technologies Used include : MongoDB, Express.js, Node.js, AWS Lambda, Amazon CloudWatch Events, 3rd Party API
 
+Check it out : https://twitter.com/JoshTagalogBot 
+
 <img width="598" alt="Screenshot 2023-01-19 at 11 21 34 PM" src="https://user-images.githubusercontent.com/114985386/213417280-bde8ae72-e686-4aac-a869-e320f159e72e.png">
