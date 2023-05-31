@@ -1,4 +1,5 @@
 # tagalogTwitterBot
+This bot has been hit by the new Twitter guidelines :( Time to find another platform to make bots on I guess
 
 A program in Node.js which retrieves data from a MongoDB database I've deployed and created a RESTful API(Express.js) for. 
 
